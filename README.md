@@ -1,0 +1,2 @@
+# dental-oneword-domains
+List of dental one word domain names with availability, expiration date, attractiveness, demand score.
