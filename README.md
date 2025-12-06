@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DENTAL one-word domains still available to buy.
 
-This dataset contains 4,642 .DENTAL one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,640 .DENTAL one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DENTAL one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dental-oneword-domains&utm_content=description.top) (4,643) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.DENTAL one word domai
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.dental        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.dental        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.dental      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.dental  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.dental      | available | 43       | 2%     | 5      |           |         |         |
