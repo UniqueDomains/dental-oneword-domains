@@ -66,13 +66,13 @@ print(df.head())
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | live.dental      | available | $59.98    | —             | 108            | 56     | 4      | namecheap        |
 | box.dental       | resell    | —         | —             | 68             | 78     | 3      | GoDaddy.com, LLC |
-| free.dental      | premium   | $85.80    | $85.80        | 88             | 59     | 4      | namecheap        |
+| ace.dental       | premium   | $1,000    | $1,000        | 88             | 57     | 3      | name.com         |
 | zero.dental      | available | $59.98    | —             | 112            | 51     | 4      | namecheap        |
 | wise.dental      | resell    | —         | —             | 88             | 72     | 4      | GoDaddy.com, LLC |
-| ace.dental       | premium   | $1,000    | $1,000        | 88             | 57     | 3      | name.com         |
+| free.dental      | premium   | $85.80    | $85.80        | 88             | 57     | 4      | namecheap        |
 | game.dental      | available | $59.98    | —             | 120            | 50     | 4      | namecheap        |
 | news.dental      | resell    | —         | —             | 100            | 64     | 4      | GoDaddy.com, LLC |
-| fast.dental      | premium   | $500      | $500          | 82             | 53     | 4      | name.com         |
+| fast.dental      | premium   | $500      | $500          | 82             | 52     | 4      | name.com         |
 | marketing.dental | available | $59.98    | —             | 78             | 49     | 9      | namecheap        |
 | fun.dental       | resell    | —         | —             | 122            | 62     | 3      | GoDaddy.com, LLC |
 | air.dental       | premium   | $260      | $260          | 84             | 49     | 3      | namecheap        |
