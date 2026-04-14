@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .dental one-word domains from Uniq
 
 **Public extract:** 9,368 rows · **Live catalog:** 9,368 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/dental`  
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | box.dental       | resell    | —         | —             | 68             | 78     | 3      | GoDaddy.com, LLC |
 | ace.dental       | premium   | $1,000    | $1,000        | 88             | 57     | 3      | name.com         |
 | zero.dental      | available | $59.98    | —             | 112            | 51     | 4      | namecheap        |
-| wise.dental      | resell    | —         | —             | 88             | 72     | 4      | GoDaddy.com, LLC |
+| wise.dental      | resell    | —         | —             | 88             | 71     | 4      | GoDaddy.com, LLC |
 | free.dental      | premium   | $85.80    | $85.80        | 88             | 57     | 4      | namecheap        |
 | game.dental      | available | $59.98    | —             | 120            | 50     | 4      | namecheap        |
 | news.dental      | resell    | —         | —             | 100            | 64     | 4      | GoDaddy.com, LLC |
@@ -78,7 +78,7 @@ print(df.head())
 | air.dental       | premium   | $260      | $260          | 84             | 49     | 3      | namecheap        |
 | security.dental  | available | $59.98    | —             | 70             | 49     | 8      | namecheap        |
 | web.dental       | resell    | —         | —             | 72             | 61     | 3      | Edomains LLC     |
-| real.dental      | premium   | $85.80    | $85.80        | 78             | 49     | 4      | namecheap        |
+| real.dental      | premium   | $85.80    | $85.80        | 78             | 48     | 4      | namecheap        |
 | edge.dental      | available | $59.98    | —             | 72             | 47     | 4      | namecheap        |
 | smart.dental     | resell    | —         | —             | 74             | 56     | 5      | Dynadot Inc      |
 | gold.dental      | premium   | $520      | $520          | 72             | 48     | 4      | namecheap        |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DENTAL One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DENTAL One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
