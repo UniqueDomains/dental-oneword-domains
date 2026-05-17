@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dental one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,329 domains · **Median ask:** $63.09 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/dental`  
 **Best for:** founders, investors, studios
 
@@ -70,8 +70,8 @@ print(df.head())
 | finals.dental  | available | $59.98    | —             | 80             | 7      | 6      | namecheap        |
 | ladies.dental  | available | $59.98    | —             | 80             | 17     | 6      | namecheap        |
 | barup.dental   | available | $59.98    | —             | 82             | 2      | 6      | namecheap        |
-| getup.dental   | available | $59.98    | —             | 82             | 14     | 6      | namecheap        |
-| popup.dental   | available | $59.98    | —             | 84             | 29     | 6      | namecheap        |
+| getup.dental   | available | $59.98    | —             | 82             | 15     | 6      | namecheap        |
+| popup.dental   | available | $59.98    | —             | 84             | 28     | 6      | namecheap        |
 | Apples.dental  | available | $59.98    | —             | 90             | 16     | 6      | namecheap        |
 | dogsit.dental  | available | $59.98    | —             | 96             | 2      | 6      | namecheap        |
 | QandA.dental   | available | $59.98    | —             | 80             | 10     | 7      | namecheap        |
@@ -81,7 +81,7 @@ print(df.head())
 | agents.dental  | available | $59.98    | —             | 56             | 50     | 6      | namecheap        |
 | support.dental | resell    | —         | —             | 90             | 47     | 7      | GoDaddy.com, LLC |
 | dogs.dental    | premium   | $500      | —             | 76             | 28     | 4      | name.com         |
-| whynot.dental  | available | $59.98    | —             | 74             | 39     | 7      | namecheap        |
+| whynot.dental  | available | $59.98    | —             | 74             | 44     | 7      | namecheap        |
 | schools.dental | premium   | $250      | —             | 72             | 24     | 7      | name.com         |
 | prompts.dental | available | $59.98    | —             | 54             | 39     | 7      | namecheap        |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DENTAL One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DENTAL One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
