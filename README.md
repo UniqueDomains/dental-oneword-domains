@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .dental one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,329 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,329 domains · **Median ask:** $63.09 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,329 domains · **Median ask:** $65.81 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/dental`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/dental`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DENTAL one-word domai
 
 ### Files
 
-- `dental.csv` — public CSV extract (1,000 rows)
-- `dental.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `dental.csv`, public CSV extract (1,000 rows)
+- `dental.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| tips.dental    | available | $59.98    | —             | 80             | 26     | 4      | namecheap        |
-| girls.dental   | available | $59.98    | —             | 83             | 23     | 5      | namecheap        |
-| homes.dental   | available | $59.98    | —             | 86             | 34     | 5      | namecheap        |
-| finals.dental  | available | $59.98    | —             | 80             | 7      | 6      | namecheap        |
-| ladies.dental  | available | $59.98    | —             | 80             | 17     | 6      | namecheap        |
-| barup.dental   | available | $59.98    | —             | 82             | 2      | 6      | namecheap        |
-| getup.dental   | available | $59.98    | —             | 82             | 15     | 6      | namecheap        |
-| popup.dental   | available | $59.98    | —             | 84             | 28     | 6      | namecheap        |
-| Apples.dental  | available | $59.98    | —             | 90             | 16     | 6      | namecheap        |
-| dogsit.dental  | available | $59.98    | —             | 96             | 2      | 6      | namecheap        |
-| QandA.dental   | available | $59.98    | —             | 80             | 10     | 7      | namecheap        |
-| hangon.dental  | available | $59.98    | —             | 82             | 6      | 7      | namecheap        |
-| stirup.dental  | available | $59.98    | —             | 82             | 3      | 7      | namecheap        |
-| dogsick.dental | available | $59.98    | —             | 90             | 1      | 7      | namecheap        |
-| agents.dental  | available | $59.98    | —             | 56             | 50     | 6      | namecheap        |
-| support.dental | resell    | —         | —             | 90             | 47     | 7      | GoDaddy.com, LLC |
-| dogs.dental    | premium   | $500      | —             | 76             | 28     | 4      | name.com         |
-| whynot.dental  | available | $59.98    | —             | 74             | 44     | 7      | namecheap        |
-| schools.dental | premium   | $250      | —             | 72             | 24     | 7      | name.com         |
-| prompts.dental | available | $59.98    | —             | 54             | 39     | 7      | namecheap        |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| ago.dental  | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
+| tap.dental  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| all.dental  | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
+| ale.dental  | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
+| news.dental | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| any.dental  | premium   | $250      | —             | high           | medium | 3      | name.com         |
+| ate.dental  | available | $59.98    | —             | high           | low    | 3      | namecheap        |
+| ben.dental  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
+| beg.dental  | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
+| fit.dental  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
+| bra.dental  | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
+| off.dental  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| bro.dental  | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
+| sea.dental  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| cow.dental  | available | $59.98    | —             | high           | low    | 3      | namecheap        |
+| full.dental | premium   | $1,000    | —             | medium         | low    | 4      | name.com         |
+| coy.dental  | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
+| hour.dental | premium   | $242      | $242          | high           | low    | 4      | namesilo         |
+| cue.dental  | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
+| park.dental | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are single-word names on the .dental extension, a narrow category aimed at dental use cases. Examples like tips.dental, WiFi.dental, homes.dental, and jewels.dental show the range: some are descriptive, some broad, and some less directly tied to dentistry. For founders, the main question is whether the word is clear enough to support a practice, product, or patient-facing brand without extra explanation. For investors, the key is whether the term has credible dental relevance and enough buyer fit to offset the niche TLD. With a median ask of 63.09, price discipline is easier, so the harder part is judging commercial clarity and renewal tolerance.
+This selection covers 12,329 one-word domain names built on the .dental TLD, with a median asking price near $66. Names range from playful compounds like matcha.dental and gearup.dental to everyday words like roastbeef.dental and dogsit.dental — most are single words rather than dental-specific terms, so brand fit varies name by name. When comparing these domains, check spelling ease, length, and any trademark overlap before choosing one, and weigh the asking price against renewal cost to judge long-term value. Updated daily, the mix skews toward niche, budget-friendly picks rather than premium listings.
 
-- Prioritize words with obvious dental relevance or patient trust
-- Check whether the word stays clear when paired with .dental
-- Low ask can help, but weak buyer fit still adds holding risk
-- Avoid terms that may raise trademark or category confusion
+- 12,329 one-word .dental domain names in this selection
+- Median asking price near $66 across the set
+- Mix of everyday words and quirky brandable terms
+- Updated daily as new one-word .dental names appear
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DENTAL One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DENTAL One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
