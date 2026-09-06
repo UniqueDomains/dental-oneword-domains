@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dental one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,366 domains · **Median ask:** $73.36 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/dental`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| off.dental   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| wrong.dental | available | $59.98    | —             | high           | low    | 5      | namecheap        |
-| ago.dental   | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
-| tap.dental   | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
-| all.dental   | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
-| ain.dental   | available | $78.99    | $78.99        | low            | low    | 3      | namesilo         |
-| news.dental  | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
-| any.dental   | premium   | $250      | —             | high           | medium | 3      | name.com         |
-| ale.dental   | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
-| ben.dental   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
-| ate.dental   | available | $59.98    | —             | high           | low    | 3      | namecheap        |
-| fit.dental   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
-| beg.dental   | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
-| bra.dental   | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
-| sea.dental   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| bro.dental   | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
-| full.dental  | premium   | $1,000    | —             | medium         | low    | 4      | name.com         |
-| ccc.dental   | available | $78.99    | $78.99        | low            | medium | 3      | namesilo         |
-| hour.dental  | premium   | $242      | $242          | high           | low    | 4      | namesilo         |
-| cow.dental   | available | $59.98    | —             | high           | low    | 3      | namecheap        |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| off.dental  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| ago.dental  | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
+| tap.dental  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| all.dental  | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
+| ain.dental  | available | $78.99    | $78.99        | low            | low    | 3      | namesilo         |
+| news.dental | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| any.dental  | premium   | $250      | —             | high           | medium | 3      | name.com         |
+| ale.dental  | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
+| ben.dental  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
+| ate.dental  | available | $59.98    | —             | high           | low    | 3      | namecheap        |
+| fit.dental  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
+| beg.dental  | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
+| bra.dental  | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
+| sea.dental  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| bro.dental  | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
+| full.dental | premium   | $1,000    | —             | medium         | low    | 4      | name.com         |
+| ccc.dental  | available | $78.99    | $78.99        | low            | medium | 3      | namesilo         |
+| hour.dental | premium   | $242      | $242          | high           | low    | 4      | namesilo         |
+| cow.dental  | available | $59.98    | —             | high           | low    | 3      | namecheap        |
+| park.dental | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DENTAL One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DENTAL One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
