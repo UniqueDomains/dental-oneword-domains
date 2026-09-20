@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dental one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,093 domains · **Median ask:** $75.69 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/dental`
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | tap.dental  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
 | all.dental  | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
 | ain.dental  | available | $78.99    | $78.99        | low            | low    | 3      | namesilo         |
-| news.dental | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| news.dental | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
 | any.dental  | premium   | $250      | —             | high           | medium | 3      | name.com         |
 | ale.dental  | available | $59.98    | —             | medium         | low    | 3      | namecheap        |
 | ben.dental  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DENTAL One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DENTAL One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
