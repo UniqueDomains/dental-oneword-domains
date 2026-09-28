@@ -52,7 +52,7 @@ aa99b2e3-54cc-448d-8ada-bf6f618cddd1,bennington.dental,available,78.99,78.99,hig
 899ffcc1-45c7-42c5-b579-9da0e41ef705,alienator.dental,available,78.99,78.99,medium,low,9,namesilo,,,18/09/2026 07:36
 ab8ca687-fe3e-4770-ada1-4ff1deebecb7,balk.dental,available,78.99,78.99,medium,low,4,namesilo,,,14/08/2026 04:55
 42c3142b-87f5-454b-8935-8f68015e4656,neotenous.dental,available,78.99,78.99,low,low,9,namesilo,,,03/09/2026 15:33
-123e19be-059d-4f94-81af-307ce784c9b7,trades.dental,available,78.99,78.99,high,low,6,namesilo,,,25/09/2026 14:51
+123e19be-059d-4f94-81af-307ce784c9b7,trades.dental,available,78.99,78.99,high,low,6,namesilo,,,28/09/2026 03:42
 9f9c3e12-d414-4ee3-89c0-427243990a59,gullible.dental,available,78.99,78.99,medium,low,8,namesilo,,,18/08/2026 07:40
 b922f064-8b9a-4123-8272-58dde5eea883,streaked.dental,available,78.99,78.99,medium,low,8,namesilo,,,10/09/2026 22:16
 510270d7-95a1-4d06-94ae-2cc3190bea29,architrave.dental,available,88.99,94.99,medium,low,10,name.com,,,20/09/2026 02:17
@@ -90,6 +90,7 @@ cc27f4ba-a522-44d7-9a65-ed4c165895fb,cockamamy.dental,available,78.99,78.99,low,
 2482cfbe-4993-490c-bc1d-6967b9b4465e,assembling.dental,available,78.99,78.99,high,low,10,namesilo,,,20/09/2026 16:08
 eb1fda16-1661-4e56-8f90-5c50c5d83d13,arrangements.dental,available,78.99,78.99,medium,low,12,namesilo,,,27/09/2026 10:40
 3dfcf8c9-49d2-41c7-b352-8be3fe6809f2,vaughn.dental,available,78.99,78.99,high,low,6,namesilo,,,27/09/2026 11:16
+3a63dd4a-f8f1-47e9-903a-87565aaa7d72,validation.dental,available,60.2,60.2,high,low,10,cloudflare,,,28/09/2026 02:30
 3f21600c-9273-46e0-a301-0a71f24744a2,clanging.dental,available,78.99,78.99,medium,low,8,namesilo,,,12/08/2026 09:31
 abeab59b-4b70-45e0-ac0f-343ac405fc6a,batteries.dental,available,62.3,62.3,medium,low,9,spaceship,,,27/09/2026 23:45
 ed47697a-ca9a-4aca-a6fb-a81b59c0527b,planate.dental,available,78.99,78.99,medium,low,7,namesilo,,,18/08/2026 06:53
@@ -157,13 +158,15 @@ b7a2cd10-73b2-4294-98fd-4a4b118ee281,pontiff.dental,available,78.99,78.99,medium
 fb80940d-f281-4e7e-a394-c4bf23f51b9d,glorified.dental,available,78.99,78.99,high,low,9,namesilo,,,11/08/2026 17:29
 364713d6-94a0-40a3-a2b3-75ba9be70af4,copacetic.dental,available,78.99,78.99,medium,low,9,namesilo,,,13/08/2026 00:18
 71a198d7-ef30-4c05-b5dd-624e7cc2d153,neonatal.dental,available,78.99,78.99,medium,low,8,namesilo,,,03/09/2026 15:27
-52776482-05c2-466b-8b50-1d897e730206,investing.dental,available,78.99,78.99,high,low,9,namesilo,,,25/09/2026 06:24
+52776482-05c2-466b-8b50-1d897e730206,investing.dental,available,62.31,62.31,high,low,9,porkbun,,,28/09/2026 02:40
 c6aa199d-5e6e-4fbb-a16e-f810bc316c55,seperation.dental,available,78.99,78.99,low,low,10,namesilo,,,18/09/2026 17:16
+5b31dcac-af6f-4174-b0ad-0a597127e6b5,accomplish.dental,available,78.99,78.99,high,low,10,namesilo,,,28/09/2026 06:55
 109a846b-d529-47be-92b3-4c35580712e4,wound.dental,available,59.98,,high,low,5,namecheap,,,
 29ba8229-a3ad-4038-9a2f-59fb0350424d,aflame.dental,available,78.99,78.99,medium,low,6,namesilo,,,
 1f494afd-9693-42cd-83ea-57c8a35efc23,narrowly.dental,available,78.99,78.99,medium,low,8,namesilo,,,15/09/2026 16:08
 01a62946-fe90-4329-82df-32d9332ba07c,regally.dental,available,78.99,78.99,medium,low,7,namesilo,,,15/09/2026 22:55
 829c0807-9512-4094-9db7-3b37e8a81eb2,crimes.dental,available,59.98,,high,low,6,namecheap,,,
+4e65fab6-8b6d-4ba6-9045-66718a1e5011,marius.dental,available,78.99,78.99,high,low,6,namesilo,,,28/09/2026 03:53
 6df29050-fa8a-4290-abc2-46d21a8bf72a,affected.dental,available,78.99,78.99,high,low,8,namesilo,,,
 3347cd18-3caa-4aae-ba63-339e0727cd90,satiric.dental,available,78.99,78.99,medium,low,7,namesilo,,,09/09/2026 21:51
 0cda9893-38c5-42b7-a140-1563323cc73a,hospitable.dental,available,78.99,78.99,high,low,10,namesilo,,,21/08/2026 14:16
@@ -209,7 +212,6 @@ bf97e381-85f0-4753-b08d-49fc9017124f,dias.dental,available,78.99,78.99,high,low,
 c79a8331-4377-4708-a9ab-ee2b4230cd69,helper.dental,available,81.98,100.98,high,low,6,namecheap,,,22/09/2026 09:58
 b8762024-64d3-4410-b3f1-83871330dfae,bulimia.dental,available,78.99,78.99,medium,low,7,namesilo,,,23/09/2026 17:32
 51a17595-46cf-405f-928e-1c03ed09167b,oblique.dental,available,78.99,78.99,high,low,7,namesilo,,,14/08/2026 05:11
-c163744d-16c5-4bf0-a882-606403994006,bot.dental,available,78.99,78.99,high,medium,3,namesilo,,,23/09/2026 08:05
 7ac06621-bf6c-41cb-acdb-85b69d0fa319,bottom.dental,available,78.99,78.99,high,low,6,namesilo,,,09/08/2026 11:50
 4178c690-7bbc-4635-afb9-224289a13641,binate.dental,available,78.99,78.99,medium,low,6,namesilo,,,09/08/2026 23:39
 01f2b3d4-6aa8-4c89-a796-1819c365bda1,modifiable.dental,available,78.99,78.99,medium,low,10,namesilo,,,25/08/2026 03:12
@@ -279,6 +281,7 @@ d855d819-8e23-496d-b977-a134e2b40f43,ballistic.dental,available,78.99,78.99,medi
 791da677-e700-477f-b9ef-bab5cc0eb108,decreed.dental,available,78.99,78.99,medium,low,7,namesilo,,,13/08/2026 22:14
 1bec8970-c0f1-41d5-8d02-a080f8cc218d,vexing.dental,available,78.99,78.99,medium,low,6,namesilo,,,
 3c1d1e67-8374-4024-9aa3-8e0cb0aae347,unclipped.dental,available,78.99,78.99,medium,low,9,namesilo,,,12/09/2026 05:25
+963ac451-8f55-4eb1-aa71-53cca96c6270,crawling.dental,available,81.98,100.98,medium,low,8,namecheap,,,28/09/2026 05:30
 3421594e-1a0d-4a5f-a4d6-f3d96367b962,nutcase.dental,available,78.99,78.99,medium,low,7,namesilo,,,13/08/2026 05:36
 b2614f78-afb8-4e15-b923-d457c4e0f62f,quelled.dental,available,78.99,78.99,medium,low,7,namesilo,,,09/09/2026 08:24
 3a6978dd-0375-4482-b589-5939d14b83c6,acropolis.dental,available,78.99,78.99,high,low,9,namesilo,,,17/09/2026 03:57
@@ -299,7 +302,7 @@ cbadcf47-114f-45b5-83a0-c2581a3e96c4,blether.dental,available,81.98,100.98,mediu
 4b5e110d-2fdc-4cf2-844e-ec234f56db38,adipose.dental,available,78.99,78.99,medium,low,7,namesilo,,,
 37baa33f-c8d8-47e3-881e-bab235faad56,painkiller.dental,available,78.99,78.99,high,low,10,namesilo,,,
 81403c99-557c-493f-8361-228fd1bee981,gamble.dental,available,78.99,78.99,high,low,6,namesilo,,,17/09/2026 10:37
-b396987c-8653-40f8-9592-a63b74255069,footwear.dental,available,78.99,78.99,high,low,8,namesilo,,,24/09/2026 02:34
+b396987c-8653-40f8-9592-a63b74255069,footwear.dental,available,62.3,62.3,high,low,8,spaceship,,,28/09/2026 05:26
 53f0aeeb-52bb-4846-9a83-6dcde70b27a3,cord.dental,available,59.98,,high,low,4,namecheap,,,
 8f099be7-59ab-4f12-bdf3-23226ed3c10a,seized.dental,available,59.98,,medium,low,6,namecheap,,,
 737c090d-9af5-4c2e-b86f-96475582680b,basaltic.dental,available,78.99,78.99,medium,low,8,namesilo,,,08/08/2026 21:29
@@ -311,12 +314,13 @@ bcb90f55-ff2b-4646-bba8-bc99a13c7e9a,starlit.dental,available,81.98,100.98,mediu
 7ffe6ca8-0fc3-4e40-84e6-e2d1e94e14cf,ensure.dental,available,59.98,,high,low,6,namecheap,,,
 3f66eff7-b578-4672-9c7d-0a35b72d8877,downturn.dental,available,78.99,78.99,medium,low,8,namesilo,,,24/09/2026 23:42
 1d3d09a3-5891-4747-8c05-0c3b95a80a75,jacobs.dental,available,59.98,,high,low,6,namecheap,,,
-dc642855-532a-4f4e-bb86-5cd9c95d7bbc,honor.dental,available,78.99,78.99,high,low,5,namesilo,,,23/09/2026 22:47
+dc642855-532a-4f4e-bb86-5cd9c95d7bbc,honor.dental,available,81.98,100.98,high,low,5,namecheap,,,28/09/2026 06:43
 392f52c6-8164-483d-b0c4-7e9cf2c894c0,benzedrine.dental,available,78.99,78.99,medium,low,10,namesilo,,,23/09/2026 08:31
 8fe88df0-2223-4967-91ef-8013af2e855c,reel.dental,available,78.99,78.99,high,low,4,namesilo,,,24/09/2026 06:24
 e5895f6a-16ba-40af-9bd2-226dee826238,subsets.dental,available,81.98,100.98,medium,low,7,namecheap,,,21/09/2026 01:05
 d903a908-4f4f-49a5-92c5-54f07c37c216,reportedly.dental,available,78.99,78.99,medium,low,10,namesilo,,,15/09/2026 23:15
 614eee1a-625f-4ee7-97cb-5528e57253fa,cloudlike.dental,available,78.99,78.99,medium,low,9,namesilo,,,12/08/2026 12:38
+27bbdc9d-f910-4b7e-a10e-3535d2692ffb,nicholas.dental,available,78.99,78.99,high,low,8,namesilo,,,28/09/2026 02:29
 c612120c-9905-4f6b-871b-c46e3f8631be,arulo.dental,available,78.99,78.99,medium,low,5,namesilo,,,20/09/2026 12:11
 72c649b3-d828-4e53-9b27-e07b87ee052a,orienting.dental,available,81.98,100.98,high,low,9,namecheap,,,04/09/2026 17:56
 e37d4653-0373-4cef-a7c3-b93931f205df,minutely.dental,available,78.99,78.99,medium,low,8,namesilo,,,15/09/2026 15:04
@@ -355,6 +359,7 @@ a79564ad-3fd6-4162-801a-cf64fe37565c,brothers.dental,available,78.99,78.99,high,
 6cf8b50a-2fc6-4e32-b3ea-a936dd9d2c4d,dubious.dental,available,78.99,78.99,medium,low,7,namesilo,,,14/08/2026 16:57
 76cec1d6-5850-4630-b690-234d0249b8d5,nonmetric.dental,available,81.98,100.98,medium,low,10,namecheap,,,03/09/2026 18:30
 bb58ba8e-12d4-496e-a5b8-ba0a52b017fa,fixed.dental,available,81.98,100.98,high,low,5,namecheap,,,24/09/2026 19:10
+10f04029-62de-482b-adf4-e22075e55670,noaa.dental,available,78.99,78.99,high,low,4,namesilo,,,28/09/2026 02:28
 901a4f6e-3492-4dcf-8fdc-c2b3d42bf1d3,teeming.dental,available,78.99,78.99,high,low,7,namesilo,,,11/09/2026 10:05
 0432dd78-3538-4f92-b825-3192b1b67396,bawling.dental,available,78.99,78.99,medium,low,7,namesilo,,,13/09/2026 07:42
 0de9838e-6557-4da2-98f9-545b71ea11dc,wysiwyg.dental,available,78.99,78.99,high,low,7,namesilo,,,13/09/2026 13:51
@@ -381,9 +386,11 @@ f2578b67-2a3d-4429-bc47-e418567bdd8e,apophasis.dental,available,81.98,100.98,med
 6e9b7da9-d6e9-4be2-b364-819aa17b57fa,crossword.dental,available,81.98,100.98,high,low,9,namecheap,,,24/09/2026 19:41
 d6598f95-649f-48b5-94d0-384751196b19,swing.dental,available,119.99,119.99,high,low,5,godaddy,,,28/09/2026 02:11
 b913ae15-8bb6-410c-b941-1bffec86fe44,arrived.dental,available,78.99,78.99,medium,low,7,namesilo,,,17/09/2026 14:03
+b4c0750f-a197-449d-a52c-f5a063fe0c27,kenyon.dental,available,78.99,78.99,medium,low,6,namesilo,,,28/09/2026 04:16
 f6081d3f-4c6c-4dd4-92ea-4381c3d2b760,bel.dental,available,78.99,78.99,high,low,3,namesilo,,,23/09/2026 04:21
 1ebb3acd-c106-4c86-b468-144eabcbb813,husbands.dental,available,62.3,62.3,medium,low,8,spaceship,,,27/09/2026 18:17
 c5edcab8-a768-4117-a1ff-74b7384d8d08,finely.dental,available,78.99,78.99,high,low,6,namesilo,,,14/09/2026 11:23
+fc5eb987-85c0-4829-9b00-a810a7530724,unbelievable.dental,available,60.2,60.2,high,low,12,cloudflare,,,28/09/2026 07:08
 68b44002-ff13-4858-b2ea-5419ca0a2c14,projection.dental,available,78.99,78.99,high,low,10,namesilo,,,22/08/2026 14:54
 efe52fa4-030c-4455-aad7-33fdcca47211,van.dental,available,78.99,78.99,high,low,3,namesilo,,,22/09/2026 14:26
 be6841cc-ce79-4d25-9e4c-744771d00b9b,unreliable.dental,available,81.98,100.98,high,low,10,namecheap,,,11/09/2026 19:06
@@ -391,6 +398,7 @@ be6841cc-ce79-4d25-9e4c-744771d00b9b,unreliable.dental,available,81.98,100.98,hi
 2d5b49b6-9a38-46b6-b2aa-3d9628890609,montevideo.dental,available,78.99,78.99,high,low,10,namesilo,,,24/09/2026 12:30
 b8024c7b-bad2-45cc-8baa-8670396375cc,begins.dental,available,81.98,100.98,medium,low,6,namecheap,,,25/09/2026 20:45
 30749f0d-c3f1-47ec-86cc-129929599de3,orderly.dental,available,78.99,78.99,high,low,7,namesilo,,,03/09/2026 14:34
+2baad4d2-b049-4e9f-9970-475f476cdb49,yelling.dental,available,60.2,60.2,high,low,7,cloudflare,,,28/09/2026 06:53
 83acfa28-0fd5-4524-8256-a67ff571289f,ashland.dental,available,78.99,78.99,high,low,7,namesilo,,,27/09/2026 08:14
 b649ca7f-4392-4118-8daa-f13b25faf50e,tendency.dental,available,78.99,78.99,high,low,8,namesilo,,,22/08/2026 22:11
 b3e6bf9f-eef3-4e00-9d46-aef3e0944421,metrical.dental,available,78.99,78.99,medium,low,8,namesilo,,,24/08/2026 22:08
@@ -416,6 +424,7 @@ be846465-dbce-452b-87e1-e183d4cc7fe8,provinces.dental,available,78.99,78.99,medi
 4d7cfde1-3ce2-4520-b981-6307b2008574,crowing.dental,available,78.99,78.99,medium,low,7,namesilo,,,10/08/2026 16:37
 1577f232-7452-407a-b8a7-845a008ecaf5,miraculous.dental,available,78.99,78.99,high,low,10,namesilo,,,21/08/2026 02:29
 c2e28c9c-237e-428d-8a3f-e4a78c2a4e5d,pleading.dental,available,78.99,78.99,medium,low,8,namesilo,,,09/08/2026 15:21
+40340067-63e1-4139-a74e-a3fd7b3f4bd7,nara.dental,available,62.3,62.3,medium,low,4,spaceship,,,28/09/2026 06:27
 2e2ed35a-3e32-4625-81d5-12bea81fcda0,babu.dental,available,81.98,100.98,medium,low,4,namecheap,,,21/09/2026 12:51
 74a0578a-470b-46f1-b679-e3187dc0cc72,airpost.dental,available,78.99,78.99,medium,low,7,namesilo,,,17/09/2026 23:19
 dcdd663a-8005-4299-a462-d2408ed379c4,danny.dental,available,81.98,100.98,medium,low,5,namecheap,,,25/09/2026 17:19
@@ -430,6 +439,7 @@ b16e8c24-27bf-4949-bb88-1d2aaeedd999,orchestra.dental,available,59.98,,high,low,
 064021c7-1fad-4298-bc5b-1629ccaeb45d,rebellious.dental,available,78.99,78.99,medium,low,10,namesilo,,,14/08/2026 09:25
 2366849d-101b-4a5a-bb39-52c5f84a7fe9,whiten.dental,premium,242,242,high,low,6,namesilo,,,
 b50bef51-c83d-453d-a6ae-01bf9dc8f1c9,barrelfish.dental,available,81.98,100.98,medium,low,10,namecheap,,,22/09/2026 08:20
+03f2cd17-8994-4143-8a45-41c6ddae15d3,stitch.dental,available,78.99,78.99,high,low,6,namesilo,,,28/09/2026 06:46
 62b1fedc-6a6a-41c8-a851-dd5b246bc83d,provided.dental,available,78.99,78.99,medium,low,8,namesilo,,,16/09/2026 09:17
 71c8d4e5-cab8-4940-a530-fbe2e24027a1,maddened.dental,available,78.99,78.99,medium,low,8,namesilo,,,
 ab23e620-5176-4ab4-8cad-8262d2a8363a,isfahan.dental,available,78.99,78.99,medium,low,7,namesilo,,,20/09/2026 14:32
@@ -453,6 +463,7 @@ a294e75e-26f6-4651-bf9b-32947d6ad3bc,allison.dental,available,81.98,100.98,mediu
 5e27d833-86dc-4267-a71c-90600a54e7b0,grew.dental,available,59.98,,high,low,4,namecheap,,,
 7e9040a8-40d0-4015-b8cc-85d62bbd2572,peggy.dental,available,78.99,78.99,high,low,5,namesilo,,,25/09/2026 13:02
 4b6613ba-6dc4-4d77-b15f-f07a3392fee5,ornate.dental,available,81.98,100.98,high,low,6,namecheap,,,04/09/2026 17:59
+9159e9c0-7b51-4d29-8256-19e9212e2e7d,meters.dental,available,81.98,100.98,medium,low,6,namecheap,,,28/09/2026 05:01
 7c26dae9-0f07-477a-b8ba-bbde7a40a427,logically.dental,available,78.99,78.99,high,low,9,namesilo,,,15/09/2026 12:41
 60775055-b642-4de3-a366-40a2199a419e,holler.dental,available,78.99,78.99,high,low,6,namesilo,,,23/09/2026 00:27
 e5d8816c-2b19-4af3-9278-3de59ff37f6f,fragmented.dental,available,78.99,78.99,medium,low,10,namesilo,,,14/08/2026 13:27
@@ -611,9 +622,11 @@ b755bbcf-d9c7-4a19-8641-ba1bbcd4205f,amphora.dental,available,78.99,78.99,high,l
 95ea3a54-ce04-4690-9531-2ab21d219799,sunup.dental,available,78.99,78.99,high,low,5,namesilo,,,11/09/2026 02:09
 4c00400e-a9f2-43ab-bb21-9e1a7291bf62,aright.dental,available,78.99,78.99,high,low,6,namesilo,,,13/09/2026 20:49
 dec274ad-b8b3-4fc8-a0d8-a90a7a8568d6,kali.dental,available,78.99,78.99,high,low,4,namesilo,,,22/09/2026 05:54
+ccabf8ec-99e1-4610-85cf-01b422d17783,rms.dental,available,62.3,62.3,high,low,3,spaceship,,,28/09/2026 04:52
 4cc65d14-66fd-4302-86b0-af8a4d678589,amazed.dental,available,78.99,78.99,high,low,6,namesilo,,,22/09/2026 03:33
 e51b9dc2-30c5-471a-bfd2-a512ba328174,wins.dental,available,78.99,78.99,high,low,4,namesilo,,,18/09/2026 14:21
 9c764fb9-0a2f-4a74-8c04-13cd19f71164,diversely.dental,available,78.99,78.99,medium,low,9,namesilo,,,14/09/2026 13:25
+c8d8fce8-1438-42d7-9a22-7ea80fb0414c,mansion.dental,available,62.31,62.31,high,low,7,porkbun,,,28/09/2026 06:20
 6745c1cb-49f8-45c9-8c4f-9549c428dfa4,believable.dental,available,78.99,78.99,high,low,10,namesilo,,,09/08/2026 13:01
 000f34a2-bb18-418e-a798-b68a0131b710,psychical.dental,available,78.99,78.99,medium,low,9,namesilo,,,09/09/2026 05:07
 993b58c6-ead9-4d86-930c-a3fa89775518,showed.dental,available,59.98,,medium,low,6,namecheap,,,
@@ -657,6 +670,7 @@ e6382e1f-db81-4f0e-a9ee-4571f7742d2d,positions.dental,available,81.98,100.98,med
 51c45e5f-0c1c-4d1e-819d-8a6144532f57,cognate.dental,available,78.99,78.99,high,low,7,namesilo,,,10/08/2026 15:14
 bde9f97b-3539-428e-97d6-29502d2f9442,millilitre.dental,available,78.99,78.99,medium,low,10,namesilo,,,11/08/2026 22:55
 0035c11e-21ac-4cba-8db9-df80042d8ef7,succulent.dental,available,78.99,78.99,high,low,9,namesilo,,,11/09/2026 00:58
+91b947a2-3ad2-4d1e-8579-c4a33396bf0a,stocks.dental,available,64.42,64.42,high,low,6,dynadot,,,28/09/2026 06:47
 f0fe2644-adf3-4ec3-a15f-e906a7339950,mesonic.dental,available,81.98,100.98,medium,low,7,namecheap,,,24/08/2026 21:09
 d74faa34-4ebd-4eb0-b8e3-0e5e600ba8da,trivially.dental,available,81.98,100.98,low,low,9,namecheap,,,16/09/2026 09:31
 01d31e6f-470b-4b5b-a329-a6529c79a02b,nohow.dental,available,78.99,78.99,low,low,5,namesilo,,,15/09/2026 16:44
@@ -681,10 +695,12 @@ cbff4e62-892c-433d-8c29-fce08e2d7d76,persons.dental,available,62.3,62.3,medium,l
 76f2a381-ccac-4147-83e0-1d2df038b434,sang.dental,available,81.98,100.98,high,low,4,namecheap,,,18/09/2026 20:03
 c9dad789-e785-464c-8c02-82f416ec7137,millstone.dental,available,78.99,78.99,medium,low,9,namesilo,,,18/09/2026 02:29
 5e8f5beb-6514-4dfc-b1ec-470a0b6c85c6,grassroots.dental,available,78.99,78.99,high,low,11,namesilo,,,20/08/2026 18:16
+74c483f0-0d35-4d14-a6e6-7ff01987b6ca,instructed.dental,available,60.2,60.2,medium,low,10,cloudflare,,,28/09/2026 04:56
 2c1859a4-8ee5-4ff6-beb6-a15380551df5,crook.dental,available,78.99,78.99,medium,low,5,namesilo,,,13/08/2026 06:27
 3efb3fcd-25a5-4302-b146-6b75c8450b99,alkalic.dental,available,78.99,78.99,medium,low,7,namesilo,,,
 ee1d8113-8b4c-4e8a-880d-fc9c33d97358,isotropic.dental,available,78.99,78.99,medium,low,9,namesilo,,,22/08/2026 11:28
 5e8c45bf-5fc5-41d1-844c-1f5d2d016193,afterward.dental,available,78.99,78.99,medium,low,9,namesilo,,,
+70eae82d-cf86-44d1-9579-fe8ca684abfe,mechanics.dental,available,62.3,62.3,high,low,9,spaceship,,,28/09/2026 02:33
 008b9388-b806-47a5-bb9d-daebef6cc872,comments.dental,available,78.99,78.99,medium,low,8,namesilo,,,17/09/2026 01:39
 77f41ccf-b8b1-47b0-bada-d4827f029d52,uncrowned.dental,available,78.99,78.99,medium,low,9,namesilo,,,13/08/2026 08:36
 7ce81adb-83e5-4d6f-91d4-8eb06f66f2cd,afterbirth.dental,available,78.99,78.99,medium,low,10,namesilo,,,17/09/2026 15:34
@@ -705,6 +721,7 @@ e140183e-0c29-43a1-bf27-c1c9539cba30,flaxseed.dental,available,78.99,78.99,high,
 e7fe2b14-2548-4325-979b-649e6716a113,static.dental,available,78.99,78.99,high,low,6,namesilo,,,16/08/2026 02:42
 8419c2ac-9925-4e2f-96a3-b447f09f01ce,andradite.dental,available,78.99,78.99,medium,low,9,namesilo,,,19/09/2026 04:09
 2268ca72-8c92-4e43-b4a7-3866cd033955,bosomed.dental,available,81.98,100.98,medium,low,7,namecheap,,,10/08/2026 20:23
+885ef66b-b5d2-4e75-bf49-f038a5edd96c,lasalle.dental,available,62.3,62.3,high,low,7,spaceship,,,28/09/2026 06:07
 f93fb407-b6ca-460c-9836-6a04d0173bcf,carpal.dental,available,81.98,100.98,high,low,6,namecheap,,,11/08/2026 19:34
 9be0dbc8-256b-42fb-9c4a-9b095b370617,falter.dental,available,78.99,78.99,high,low,6,namesilo,,,17/08/2026 21:39
 3c83d80a-bd2d-4efd-a42d-f2564182bcc6,hawaiian.dental,available,78.99,78.99,high,low,8,namesilo,,,21/08/2026 01:36
@@ -815,6 +832,7 @@ ebb26413-4267-477e-8d31-2e4aa892f4a6,anaerobic.dental,available,78.99,78.99,medi
 c28bd45f-4729-4906-abd3-24d33e883cfb,anniversary.dental,available,59.98,,high,low,11,namecheap,,,
 ed13aab7-c7d1-459c-b756-cb97226f1215,aragon.dental,available,78.99,78.99,medium,low,6,namesilo,,,19/09/2026 23:42
 11309154-f6a5-4d18-a563-0c8a34912787,danish.dental,available,88.99,94.99,high,low,6,name.com,,,13/08/2026 17:19
+849ed823-087e-46fa-ad90-24d062a90623,maguire.dental,available,64.42,64.42,high,low,7,dynadot,,,28/09/2026 04:17
 4810014c-8127-4733-9a06-7e33adfbe762,barish.dental,available,78.99,78.99,medium,low,6,namesilo,,,22/09/2026 06:05
 741494df-c06f-4f46-b348-1399a89cc070,beauteous.dental,available,78.99,78.99,medium,low,9,namesilo,,,09/08/2026 05:58
 4e1b5a5a-0012-445b-ab69-22d34b3bfb54,argument.dental,available,78.99,78.99,high,low,8,namesilo,,,20/09/2026 04:49
@@ -981,21 +999,3 @@ e5534958-4c32-4282-8624-c4cfdabb1ade,lighted.dental,available,81.98,100.98,high,
 e9a9ffc7-f717-4cc7-aa0b-41f94e9cc568,nether.dental,available,78.99,78.99,high,low,6,namesilo,,,12/08/2026 07:29
 35eaaa02-6559-45f1-a4e3-8bde2171c026,across.dental,available,59.98,,high,low,6,namecheap,,,
 c5cfed48-de13-4fdf-8ef2-6c241014c717,unquestionable.dental,available,59.98,,medium,low,14,namecheap,,,
-2fabef3d-f00c-42a8-8929-c37377982ac4,views.dental,available,78.99,78.99,high,low,5,namesilo,,,16/09/2026 22:00
-4a258156-ac12-4c63-a388-de72090db7fc,derivative.dental,available,78.99,78.99,high,low,10,namesilo,,,14/08/2026 03:01
-8174b728-6e2e-4786-913f-59046e83b0b6,protozoon.dental,available,78.99,78.99,medium,low,9,namesilo,,,09/09/2026 04:16
-6adb147c-9a1c-47ae-af45-7a9d424d6f1a,punter.dental,available,59.98,,medium,low,6,namecheap,,,
-54e0265d-9a23-4cc6-84a3-39308dec98cb,legibility.dental,available,78.99,78.99,high,low,10,namesilo,,,24/09/2026 22:31
-1b706367-8864-44f6-a4a2-d5d6f8de6212,thorpe.dental,available,59.98,,high,low,6,namecheap,,,
-05e6737c-db13-4376-b699-c6366d00aac2,maculate.dental,available,78.99,78.99,medium,low,8,namesilo,,,13/08/2026 23:26
-c0af753c-f266-48f5-8b52-bc6a3be7067f,obese.dental,available,78.99,78.99,medium,low,5,namesilo,,,23/09/2026 23:32
-23758857-349b-4411-ae30-e019371891d8,remover.dental,available,59.98,,high,low,7,namecheap,,,
-f2677ee5-eeb1-4a30-87e1-2862f2c09b13,caliginous.dental,available,78.99,78.99,low,low,10,namesilo,,,11/08/2026 14:25
-54de5e26-5696-4cc0-9133-47ca8ece003d,arrest.dental,available,78.99,78.99,high,low,6,namesilo,,,20/08/2026 22:54
-0f69c593-8c0d-4ad3-8ae7-0233ac2d5c5c,optionally.dental,available,59.98,,medium,low,10,namecheap,,,
-b5b57ef8-099d-43b4-a9d1-56474088dc57,misgiving.dental,available,78.99,78.99,medium,low,9,namesilo,,,24/09/2026 23:11
-0a578285-58a3-401c-861c-5449092a9d59,ardently.dental,available,78.99,78.99,medium,low,8,namesilo,,,13/09/2026 20:41
-d092e1b3-8dc6-45f8-a5bf-322196245f78,wulfila.dental,available,78.99,78.99,medium,low,7,namesilo,,,23/09/2026 21:57
-6f1145f7-5779-4272-9a8b-10eac14cefc0,generally.dental,available,59.98,,high,low,9,namecheap,,,
-36dd92ec-7d3e-4e17-8261-5ad01db68bbf,burned.dental,available,78.99,78.99,medium,low,6,namesilo,,,23/09/2026 11:37
-7af9fcf6-2c2d-488a-ab60-d078f0fd5da0,overripe.dental,available,78.99,78.99,medium,low,8,namesilo,,,04/09/2026 21:44
